@@ -1,10 +1,10 @@
 ---
-title: Ultimatumbee Ng
-emoji: 🐠
-colorFrom: purple
-colorTo: purple
+title: Ultimatumbee
+emoji: 🏢
+colorFrom: blue
+colorTo: indigo
 sdk: gradio
-app_file: app.py
+app_file: ubee/__main__.py
 pinned: false
 license: mit
 ---
@@ -44,5 +44,3 @@ Will be parsed automatically from your code if not specified here.
 
 `pinned`: _boolean_
 Whether the Space stays on top of your list.
-
-[![Sync to Hugging Face hub](https://github.com/ffreemt/ultimatumbee-ng/actions/workflows/on-push-sync-to-hf.yml/badge.svg)](https://github.com/ffreemt/ultimatumbee-ng/actions/workflows/on-push-sync-to-hf.yml)
