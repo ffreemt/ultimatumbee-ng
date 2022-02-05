@@ -1,0 +1,23 @@
+gradio
+install
+transformers
+sentencepiece
+sklearn
+git+https://github.com/ffreemt/fast-langid
+git+https://github.com/ffreemt/align-model-pool
+sentence-transformers
+sentence_splitter
+logzero
+icecream
+alive-progress
+more_itertools
+#
+openpyxl
+# --- seg_text
+Morfessor
+pyicu
+pycld2
+tqdm
+polyglot
+sentence_splitter
+pyfunctional
