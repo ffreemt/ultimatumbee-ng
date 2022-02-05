@@ -27,7 +27,7 @@ Color for Thumbnail gradient (red, yellow, green, blue, indigo, purple, pink, gr
 Can be either `gradio`, `streamlit`, or `static`
 
 `sdk_version` : _string_
-Only applicable for `streamlit` SDK.  
+Only applicable for `streamlit` SDK.
 See [doc](https://hf.co/docs/hub/spaces) for more info on supported versions.
 
 `app_file`: _string_
@@ -44,3 +44,5 @@ Will be parsed automatically from your code if not specified here.
 
 `pinned`: _boolean_
 Whether the Space stays on top of your list.
+
+[![Sync to Hugging Face hub](https://github.com/ffreemt/ultimatumbee-ng/actions/workflows/on-push-sync-to-hf.yml/badge.svg)](https://github.com/ffreemt/ultimatumbee-ng/actions/workflows/on-push-sync-to-hf.yml)
