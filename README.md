@@ -44,5 +44,6 @@ Will be parsed automatically from your code if not specified here.
 
 `pinned`: _boolean_
 Whether the Space stays on top of your list.
+---
 
 `icon`: [![Sync to Hugging Face hub](https://github.com/ffreemt/ultimatumbee-ng/actions/workflows/on-push-sync-to-hf.yml/badge.svg)](https://github.com/ffreemt/ultimatumbee-ng/actions/workflows/on-push-sync-to-hf.yml)
