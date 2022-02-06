@@ -2,3 +2,4 @@ pyright
 flake8
 pylint
 black
+pydocstyle
