@@ -1,10 +1,10 @@
 ---
-title: Ultimatumbee Dev
-emoji: 🏢
-colorFrom: blue
-colorTo: indigo
+title: Ultimatumbee Ng
+emoji: 🐠
+colorFrom: purple
+colorTo: purple
 sdk: gradio
-app_file: ubee/__main__.py
+app_file: app.py
 pinned: false
 license: mit
 ---
