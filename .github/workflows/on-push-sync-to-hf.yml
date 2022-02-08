@@ -6,7 +6,7 @@ on:
     branches: [main]
 
   # to run this workflow manually from the Actions tab
-  # workflow_dispatch:
+  # workflow_dispatch: xxx
 
 jobs:
   # sync-to-hub:
