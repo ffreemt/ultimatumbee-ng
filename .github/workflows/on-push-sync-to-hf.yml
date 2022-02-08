@@ -1,13 +1,16 @@
 name: Sync to Hugging Face hub
 on:
-  push:
+  # push:
+  repository_dispatch:
+    types: [custom_event_type]
     branches: [main]
 
   # to run this workflow manually from the Actions tab
-  workflow_dispatch:
+  # workflow_dispatch:
 
 jobs:
-  sync-to-hub:
+  # sync-to-hub:
+  customEventType
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
