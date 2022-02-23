@@ -1,5 +1,5 @@
 gradio
-install
+# install
 transformers
 sentencepiece
 sklearn
